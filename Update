@@ -1,0 +1,7 @@
+Added Auto execution at exit game event to all class
+
+Fixed Frame prompt error
+Fixed code that are not necessary
+Fixed Auto next scene checker to avoid harm
+Fixed touch transparent color from green to more colorless
+Updated all toggle var to upvalue to be ready for future combine
